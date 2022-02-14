@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/AnnyFigueira/react-native-point-sdk",
-  "author": "AnnyFigueira <anny.figueira@gmail.com> (https://github.com/AnnyFigueira)",
+  "repository": "https://github.com:agencyenterprise/point-sdk-rn",
+  "author": "Anny Figueira <anny.figueira@gmail.com> (https://github.com/AnnyFigueira)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AnnyFigueira/react-native-point-sdk/issues"
+    "url": "https://github.com:agencyenterprise/point-sdk-rn/issues"
   },
-  "homepage": "https://github.com/AnnyFigueira/react-native-point-sdk#readme",
+  "homepage": "https://github.com:agencyenterprise/point-sdk-rn#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
