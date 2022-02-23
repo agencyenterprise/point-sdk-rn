@@ -17,6 +17,6 @@ const PointSdk = NativeModules.PointSdk
       }
     );
 
-export function multiply(a: number, b: number): Promise<number> {
-  return PointSdk.multiply(a, b);
+export function setup(apiKey: string): Promise<void> {
+  return PointSdk.setup(apiKey);
 }

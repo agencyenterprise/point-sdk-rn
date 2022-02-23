@@ -1,0 +1,6 @@
+framework module PointSDK {
+  umbrella header "PointSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
