@@ -10,10 +10,12 @@ Pod::Spec.new do |s|
   s.license      = package["license"]
   s.authors      = package["author"]
 
-  s.platforms    = { :ios => "13.0" }
-  s.source       = { :git => "https://github.com/agencyenterprise/point-sdk-rn.git", :tag => "#{s.version}" }
+  s.platform = :ios
+  s.ios.deployment_target = "13.0"
+  s.source       = { :git =>  "https://github.com/agencyenterprise/point-sdk-rn.git", :tag => "0.0.1" }
 
   s.source_files = "ios/**/*.{h,m,mm,swift}"
 
-  s.dependency "React-Core"
+  s.dependency "React"
+  s.dependency "PointSDK"
 end
