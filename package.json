@@ -1,6 +1,6 @@
 {
   "name": "react-native-point-sdk",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "React Native library for Point SDK",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
