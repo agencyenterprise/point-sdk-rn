@@ -1,6 +1,6 @@
 {
   "name": "react-native-point-sdk",
-  "version": "0.1.0",
+  "version": "0.0.2",
   "description": "React Native library for Point SDK",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -42,7 +42,7 @@
   "bugs": {
     "url": "https://github.com:agencyenterprise/point-sdk-rn/issues"
   },
-  "homepage": "https://github.com:agencyenterprise/point-sdk-rn#readme",
+  "homepage": "https://github.com:agencyenterprise/point-sdk-rn",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
